@@ -25,12 +25,7 @@ Esses são apenas alguns exemplos de elementos visuais disponíveis no Android S
 
 -Switch case
 
-Switch case é uma estrutura de controle de fluxo de código em que uma variável ou expressão é testada em relação a várias opções. Essa estrutura é comumente utilizada em várias linguagens de programação, incluindo Java, C++, C# e outras.
-
-A estrutura do switch case é composta por uma expressão ou variável que é comparada com várias opções de casos (case). Cada caso (case) é seguido por um bloco de código que será executado se a expressão ou variável testada for igual ao valor do caso (case).
-
-Além disso, é possível incluir uma opção padrão (default) após os casos, que será executada se nenhuma das opções de caso corresponder à expressão ou variável testada.
-
+A estrutura switch case é composta por uma expressão ou variável que é comparada com várias opções case. Cada caso é seguido por um bloco de código que será executado se a expressão ou variáveis testadas for igual ao valor do caso. Além disso, é possível incluir uma opção padrão (padrão) após os casos.
 Um exemplo com java utilizando estrutura do case;
 
 int opcao = 3;
