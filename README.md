@@ -25,8 +25,7 @@ Esses são apenas alguns exemplos de elementos visuais disponíveis no Android S
 
 -Switch case
 
-A estrutura switch case é composta por uma expressão ou variável que é comparada com várias opções case. Cada caso é seguido por um bloco de código que será executado se a expressão ou variáveis testadas for igual ao valor do caso. Além disso, é possível incluir uma opção padrão (padrão) após os casos.
-Um exemplo com java utilizando estrutura do case;
+AA estrutura switch case é composta por uma expressão ou variável que é comparada com várias opções case. Cada caso é seguido por um bloco de código que será executado se a expressão ou variáveis testadas for igual ao valor do caso. Além disso, é possível incluir uma opção padrão (padrão) após os casos.
 
 int opcao = 3;
 switch (opcao) {
